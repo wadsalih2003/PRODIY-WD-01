@@ -35,4 +35,3 @@ As part of **Task 1** during my Web Development Internship at **Prodigy InfoTech
 
 ---
 
-## 📁 Folder Structure
